@@ -30,5 +30,5 @@
 	* Computer Science
 	* Physics
 ## Websites I Recommend
-- [Instagram](https://www.instagram.com) - When I am bored I like to scroll Instagram to see what is happening. 
-- [YouTube](https://www.youtube.com) - I use YouTube to study for classes and learn new topics that I am interested about.
+1. [Instagram](https://www.instagram.com) - When I am bored I like to scroll Instagram to see what is happening. 
+2. [YouTube](https://www.youtube.com) - I use YouTube to study for classes and learn new topics that I am interested about.
