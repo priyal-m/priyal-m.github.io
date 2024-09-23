@@ -18,7 +18,7 @@
 # About Me
 ## My Interests
 ##### Hobbies
-* I like to many different kinds of art!
+* I like to do many different kinds of art!
 	* Painting
 	* Drawing
 	* Making Cards
