@@ -1,8 +1,9 @@
+```mermaid
 flowchart TD
-    A([Start Game]) --> B[[Generate random number (1-100)]]
+    A([Start Game]) --> B([Generate random number 1 to 100])
     B --> C[/Ask player for a guess/]
     C --> J{Is input a number?}
-    J -- No --> K[Display "Invalid input, enter a number"]
+    J -- No --> K[Display invalid input message]
     K --> C
     J -- Yes --> D{Is the guess correct?}
     D -- Yes --> E([Player wins!])
@@ -12,3 +13,4 @@ flowchart TD
     G --> C
     H --> C
     E --> I([End Game])
+```
